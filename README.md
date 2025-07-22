@@ -8,6 +8,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+<h3> 📖 About me</h3>
   
 - 🌱 I’m currently learning **OOP with Java**
 
