@@ -1,36 +1,29 @@
+
+<!-- Banner GIF -->
 <p align="center">
-  <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+  <img align="center" height="300" width="450" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif"> 
 </p>
 
-<h3 align="center">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-  </picture>
-  Welcome to My Profile
-</h3>
-
----
+<h2 align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px" />
+  Welcome to My Creative Developer Space 💡
+</h2>
 
 <table align="center">
   <tr>
     <td width="50%" align="left">
       
-### 📖 About Me
+## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **OOP with Java**
-- 🧑‍🎓 Undergraduate at **UCSC**
-- 💬 Ask me about **Web Development | OOP**
-- 💻 Favorite line of code: `git commit -m "Initial Commit"`
-- ⚡ Pronouns: **She/Her**
-
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" height="270" width="400" alt="GIF" />
-    </td>
-  </tr>
-</table>
-
----
+```yaml
+Name: Ishaara Udayamali 🌸
+🎓 University: UCSC - Undergraduate
+💻 Passion: Web Development, Java OOP
+📚 Currently Learning: Object Oriented Programming in Java
+🧠 Interests: Data Structures, Databases, Data Science
+💬 Ask Me About: Java, HTML/CSS, JavaScript, Node.js
+🖥️ Pronouns: She/Her
+```
 
 ### 📋 Languages
 
@@ -41,9 +34,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" width="77"/>
+<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" width="77">
 
----
 
 ### 🎨 Frameworks & Libraries
 
@@ -51,7 +43,6 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
 ### 💾 Databases
 
@@ -59,7 +50,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
----
 
 ### 🛠️ Tools & Platforms
 
@@ -72,15 +62,6 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
----
-
-### 📚 Interests
-
-- 📊 Data Science  
-- 💻 Data Structures & Algorithms  
-- 🗄️ Databases  
-
----
 
 ### 📫 Connect With Me
 
@@ -89,8 +70,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sbirunthaban007)
 
----
 
 ### 💰 Support My Work
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi)
+
+
+
