@@ -91,13 +91,25 @@ Name: Ishaara Udayamali 🌸
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-<img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-
-
+<table>
+  <tr colspan=2>
+    <td>
+<img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="330" alt="adam-pw" style="border-radius: 10px;"/>
+</td>
+    <td>
+<p align="center">
+  🎯 <i>"I don't just write code — I craft experiences, solve problems, and build the future."</i><br><br>
+  📚 <b>IT Undergraduate</b> | Passionate about <b>Tech</b> & <b>Lifelong Learning</b><br><br>
+  🤝 <b>Let’s connect, collaborate, and build something extraordinary!</b>
+</p>
+      </td>
+</tr>
+</table>
 
 </table>
+
+
+Last Edited on: 22/07/2025
 
 
 
