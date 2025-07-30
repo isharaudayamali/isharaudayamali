@@ -16,7 +16,7 @@
 ## 👩‍💻 About Me
 
 ```yaml
-Name: Ishaara Udayamali 🌸
+😊 Name: Ishaara Udayamali 🌸
 🎓 University:  University of Colombo School of Computing
 🔥 Passion Stack: Java ⚙ + Express.js 🚀 + React 🎨  
 📚 Currently Learning: Object Oriented Programming in Java ,Web Development 
@@ -94,7 +94,7 @@ Name: Ishaara Udayamali 🌸
 <table>
   <tr colspan=2>
     <td>
-<img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="290" alt="adam-pw" style="border-radius: 10px;"/>
+<img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="280" alt="adam-pw" style="border-radius: 10px;"/>
 </td>
     <td>
 <p align="center">
