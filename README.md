@@ -81,7 +81,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### 🏆 My GitHub Achievements
 
+| Achievement | Badge | What it means |
+| :---: | :---: | :--- |
+| **YOLO** | <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="33%"> | Merged a pull request without a review. |
+| **Quickdraw** | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="33%"> | Closed an issue or PR within 5 mins of opening. |
+| **Pull Shark** | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="33%"> | 2 or more pull requests merged. |
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 💰 Support My Work
 
